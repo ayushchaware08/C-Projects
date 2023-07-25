@@ -1,11 +1,12 @@
 // create a rock paper sessior game
 // player 1: rock
 // player 2 (computer) : scissors  --->P1 gets 1 point
+
 // rock vs scissor > rock wins
 // scissor vs paper > scissors wins
 // paper vs rock > paper wins
-// write a program  to allow1s user to play this game three time with computer.
-// calculate the score of the player 1 and player 2
+// Write a program  to allow1s user to play this game three time with computer.
+// Calculate the score of the player 1 and player 2
 // and announce the winner
 // Note: you have to display the name of the player durin the game.
 
