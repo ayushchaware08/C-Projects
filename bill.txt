@@ -1,0 +1,1 @@
+Thanks {{name}} for purchasing {{item}} fro our {{outlet}} for any kind of problem please visit us again!!
